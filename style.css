@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(/bg.jpeg);
+    background-image: url(/windows-11/bg.jpeg);
     background-size: cover;
     height: 100vh;
     overflow: hidden;
@@ -27,7 +27,7 @@ body{
     bottom: -650px;
     width: 100%;
     text-align: center;
-    transition: all 0.3s ease-in;s
+    transition: all 0.3s ease-in;
 }
 .startmenu img{
     border-radius: 8px;
